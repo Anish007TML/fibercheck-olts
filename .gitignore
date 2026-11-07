@@ -1,0 +1,16 @@
+build/
+*.o
+*.out
+*.exe
+
+# KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+_autosave-*
+*.lck
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
